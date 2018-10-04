@@ -33,7 +33,7 @@ abbr -a gfa        git fetch --all --prune
 abbr -a gfo        git fetch origin
 abbr -a gl         git pull
 abbr -a glol      'git log --graph --pretty=\'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset\''
-abbr -a glola     'git log --graph --pretty=\'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset --all\''
+abbr -a glola     'git log --graph --pretty=\'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset\' --all'
 abbr -a glg        git log --stat --max-count=10
 abbr -a glgg       git log --graph --max-count=10
 abbr -a glgga      git log --graph --decorate --all
