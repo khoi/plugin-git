@@ -66,6 +66,7 @@ abbr -a gsts       git stash show --text
 abbr -a gunignore  git update-index --no-assume-unchanged
 abbr -a gup        git pull --rebase
 abbr -a gwch       git whatchanged -p --abbrev-commit --pretty=medium
+abbr -a gsu        git submodule update
 
 # git checkout abbreviations
 abbr -a gco        git checkout
