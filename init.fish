@@ -16,6 +16,7 @@ abbr -a gc         git commit -v
 abbr -a gc!        git commit -v --amend
 abbr -a gca        git commit -v -a
 abbr -a gca!       git commit -v -a --amend
+abbr -a gcm        git commit -m
 abbr -a gcmsg      git commit -m
 abbr -a gcl        git clone
 abbr -a gcount     git shortlog -sn
